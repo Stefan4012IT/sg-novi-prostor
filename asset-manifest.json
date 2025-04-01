@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sg-novi-prostor/static/css/main.434d5f4d.css",
+    "main.js": "/sg-novi-prostor/static/js/main.5a83b1ee.js",
+    "index.html": "/sg-novi-prostor/index.html",
+    "main.434d5f4d.css.map": "/sg-novi-prostor/static/css/main.434d5f4d.css.map",
+    "main.5a83b1ee.js.map": "/sg-novi-prostor/static/js/main.5a83b1ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434d5f4d.css",
+    "static/js/main.5a83b1ee.js"
+  ]
+}
