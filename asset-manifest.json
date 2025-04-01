@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e52bbd4.css",
-    "main.js": "/static/js/main.2051d196.js",
-    "static/media/dump_img_1.avif": "/static/media/dump_img_1.f853b71ccdcc5e7cd560.avif",
-    "static/media/KHTeka-Regular.ttf": "/static/media/KHTeka-Regular.329ba7af98e3654980a9.ttf",
-    "static/media/KHTeka-Medium.ttf": "/static/media/KHTeka-Medium.a3fb9bc29c9ac931da84.ttf",
-    "index.html": "/index.html",
-    "main.0e52bbd4.css.map": "/static/css/main.0e52bbd4.css.map",
-    "main.2051d196.js.map": "/static/js/main.2051d196.js.map"
+    "main.css": "/sg-novi-prostor/static/css/main.58f02977.css",
+    "main.js": "/sg-novi-prostor/static/js/main.d8b1dc89.js",
+    "static/media/dump_img_1.avif": "/sg-novi-prostor/static/media/dump_img_1.f853b71ccdcc5e7cd560.avif",
+    "static/media/KHTeka-Regular.ttf": "/sg-novi-prostor/static/media/KHTeka-Regular.329ba7af98e3654980a9.ttf",
+    "static/media/KHTeka-Medium.ttf": "/sg-novi-prostor/static/media/KHTeka-Medium.a3fb9bc29c9ac931da84.ttf",
+    "index.html": "/sg-novi-prostor/index.html",
+    "main.58f02977.css.map": "/sg-novi-prostor/static/css/main.58f02977.css.map",
+    "main.d8b1dc89.js.map": "/sg-novi-prostor/static/js/main.d8b1dc89.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e52bbd4.css",
-    "static/js/main.2051d196.js"
+    "static/css/main.58f02977.css",
+    "static/js/main.d8b1dc89.js"
   ]
 }
