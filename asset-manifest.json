@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/sg-novi-prostor/static/css/main.58f02977.css",
-    "main.js": "/sg-novi-prostor/static/js/main.d8b1dc89.js",
+    "main.css": "/sg-novi-prostor/static/css/main.aee233db.css",
+    "main.js": "/sg-novi-prostor/static/js/main.074c6c5e.js",
     "static/media/dump_img_1.avif": "/sg-novi-prostor/static/media/dump_img_1.f853b71ccdcc5e7cd560.avif",
+    "static/media/KHTeka-Bold.ttf": "/sg-novi-prostor/static/media/KHTeka-Bold.0a0c0f135b0eec2ee58f.ttf",
     "static/media/KHTeka-Regular.ttf": "/sg-novi-prostor/static/media/KHTeka-Regular.329ba7af98e3654980a9.ttf",
     "static/media/KHTeka-Medium.ttf": "/sg-novi-prostor/static/media/KHTeka-Medium.a3fb9bc29c9ac931da84.ttf",
+    "static/media/KHTeka-Light.ttf": "/sg-novi-prostor/static/media/KHTeka-Light.133669dc3b565911724f.ttf",
     "index.html": "/sg-novi-prostor/index.html",
-    "main.58f02977.css.map": "/sg-novi-prostor/static/css/main.58f02977.css.map",
-    "main.d8b1dc89.js.map": "/sg-novi-prostor/static/js/main.d8b1dc89.js.map"
+    "main.aee233db.css.map": "/sg-novi-prostor/static/css/main.aee233db.css.map",
+    "main.074c6c5e.js.map": "/sg-novi-prostor/static/js/main.074c6c5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.58f02977.css",
-    "static/js/main.d8b1dc89.js"
+    "static/css/main.aee233db.css",
+    "static/js/main.074c6c5e.js"
   ]
 }
