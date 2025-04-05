@@ -1,0 +1,115 @@
+
+.scroll-zone {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  padding: 0 64px;
+
+  .text-current {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 70%;
+  }
+
+  .text-current h2 {
+    font-size: 80px;
+    padding-top: 5px;
+    width: 70%;
+  }
+
+  .text-current p {
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 1.1;
+    letter-spacing: -0.05em;
+    z-index: 1000;
+    padding-left: 40%;
+  }
+
+  .text-current-withNoHeading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 70%;
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 1.1;
+    letter-spacing: -1px;
+  }
+
+  .text-current-withList {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 70%;
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 1.1;
+    letter-spacing: -1px;
+
+    h3 {
+      padding-bottom: 15px;
+      width: 100%;
+      font-weight: 300;
+    }
+
+    p {
+      font-size: 24px;
+      font-weight: 200;
+      line-height: 1.1;
+      letter-spacing: -0.05em;
+      z-index: 1000;
+    }
+
+    .text-list {
+      width: 100%;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      padding-top: 60px;
+
+      &>div {
+        display: flex;
+        flex-direction: column;
+        row-gap: 10px;
+
+        p {
+          text-transform: uppercase;
+          font-size: 14px;
+          text-align: left;
+        }
+
+      }
+    }
+  }
+
+  .zone-img-box {
+    position: absolute;
+    right: 0;
+    width: 70%;
+    display: flex;
+    justify-content: flex-end;
+    img {
+      max-width: 100%;
+      width: 70%;
+      max-height: 80vh;
+      height: 50%;
+      object-fit: contain;
+      z-index: 30;
+    }
+  }
+
+}
+
+.scroll-box {
+  width: 30%;
+  position: relative; 
+  overflow: hidden; 
+  display: flex; 
+  align-items: center; 
+  height: 100%;
+}

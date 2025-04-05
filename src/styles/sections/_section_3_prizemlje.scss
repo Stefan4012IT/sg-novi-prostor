@@ -1,0 +1,32 @@
+.section-3 {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+
+    .title {
+        margin: 40px 64px;
+        font-size: 100px;
+        width: 800px;
+        text-align: right;
+    }
+
+    .section-img {
+        width: 75%;
+        background-color: transparent;
+
+        img {
+            object-fit: cover;
+            object-position: center center;
+            opacity: 1;
+            height: 100%;
+        }
+    }
+
+    .title-2 {
+        font-size: 75px;
+        font-weight: 500;
+        position: absolute;
+        bottom: 40px;
+        right: 64px;
+    }
+}

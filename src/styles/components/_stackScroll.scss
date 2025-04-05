@@ -1,0 +1,19 @@
+.stack-scroll {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  overflow: visible;
+}
+
+.stack-panel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  will-change: transform;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  z-index: 10;
+}

@@ -1,0 +1,37 @@
+.section-10 {
+    position: relative;
+    height: 200vh; // ili više ako želiš dugačak efekat
+  
+    &--base {
+      position: sticky;
+      top: 20%;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #FFF;
+      text-align: center;
+      z-index: 1;
+  
+      h1 {
+        color: #1f1f1f;
+        font-size: 300px;
+        text-transform: uppercase;
+
+        @media only screen and (max-width: 992px) {
+          font-size: 50px;
+        }
+      }
+    }
+  
+    &--overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 200vh;
+      z-index: 2;
+      pointer-events: none; // ne ometa korisnika
+    }
+  }
+  

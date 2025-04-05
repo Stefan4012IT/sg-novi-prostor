@@ -1,0 +1,46 @@
+.floating-images-section {
+    position: absolute;
+    height: 200vh;
+    width: 100%;
+    z-index: 20;
+    background-color: transparent;
+    pointer-events: none;
+  
+    .float-image {
+      position: absolute;
+      width: 400px;
+      height: auto;
+  
+      &--1 {
+        top: 10%;
+        left: 0%;
+      }
+  
+      &--2 {
+        top: 25%;
+        left: 40%;
+      }
+  
+      &--3 {
+        top: 15%;
+        right: 0%;
+      }
+
+      &--4 {
+        top: 50%;
+        left: 5%;
+      }
+
+      &--5 {
+        top: 60%;
+        left: 40%;
+      }
+
+      &--6 {
+        top: 55%;
+        right: 5%;
+      }
+  
+      // dodaj dalje ako bude više slika
+    }
+  }

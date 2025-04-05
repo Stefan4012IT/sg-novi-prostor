@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'KHTeka';
+    src: url('../../assets/fonts/kht-font/KHTeka-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'KHTeka';
+    src: url('../../assets/fonts/kht-font/KHTeka-Regular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: regular;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'KHTeka';
+    src: url('../../assets/fonts/kht-font/KHTeka-Light.ttf') format('truetype');
+    font-weight: 200;
+    font-style: light;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'KHTeka';
+    src: url('../../assets/fonts/kht-font/KHTeka-Bold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: bold;
+    font-display: swap;
+  }
+
+h1 {
+    font-family: 'KHTeka', sans-serif;
+    font-weight: 300;
+    font-size: 255px;
+    line-height: 0.8em;
+    letter-spacing: -0.06em;
+}
+
+h2 {
+    font-family: 'KHTeka', sans-serif;
+    font-weight: 300;
+    font-size: 100px;
+    line-height: 0.8em;
+    letter-spacing: -0.06em;
+}
+
+h3 {
+  font-size: 44px;
+  font-weight: 300;
+  line-height: .9em;
+  letter-spacing: -0.06em;
+}
+
+h4 {
+    font-family: 'KHTeka', sans-serif;
+    font-weight: 200;
+    font-size: 32px;
+    line-height: 0.8em;
+    line-height: 1.1;
+    letter-spacing: -0.05em;
+}

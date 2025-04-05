@@ -1,0 +1,185 @@
+.infinite-zone-wrapper {
+    position: relative;
+    padding: 10vh 5vw;
+    // transition: background-color 0.25s ease;
+    will-change: background-color;
+    background-color: #FFF;
+
+    // &::before {
+    //     content: '';
+    //     position: absolute;
+    //     inset: 0;
+    //     background: var(--active-bg, #fff);
+    //     // transition: background 0.1s; 
+    // }
+
+    .color-box {
+        // position: sticky;
+        // width: 300px;
+        // height: 500px;
+        // top: 20vh;
+        // left: 0%;
+        // z-index: 10;
+        // background-color: var(--active-bg);
+
+        position: absolute;
+        inset: 0; // zauzima celu sekciju, ali je izvan toka
+        z-index: 0;
+        pointer-events: none;
+      
+        display: flex;
+        justify-content: center;
+      
+        &::before {
+          content: '';
+          position: sticky;
+          top: 0vh;
+          height: 100vh;
+          width: 100%;
+          background-color: var(--active-bg);
+          transition: background-color 0.6s ease;
+        }
+    } 
+    
+  
+    .zone-content {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      justify-content: space-between;
+      position: relative;
+      z-index: 20;
+    }
+  
+    .zone-texts {
+      width: 30%;
+      display: flex;
+      flex-direction: column;
+      gap: 500px; // razmak između tekstova
+      z-index: 200;
+    }
+  
+    .zone-text {
+        opacity: 0.3;
+        transition: opacity 0.75s ease;
+
+        &.active {
+            opacity: 1;
+        }
+
+        &.zone-text-primary {
+            height: 500px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+
+            .heading-box {
+
+            }
+
+            h2 {
+                font-size: 80px;
+                padding-top: 5px;
+                width: 50%;
+            }
+            p {
+                font-size: 24px;
+                font-weight: 200;
+                line-height: 1.1;
+                letter-spacing: -0.05em;
+                z-index: 1000;
+                padding-left: 40%;
+              }
+        }
+
+        &.zone-text-secondary {
+            h2 {
+                font-size: 44px;
+                font-weight: 300;
+                line-height: .9em;
+                letter-spacing: -0.06em;
+                padding-bottom: 15px;
+            }
+            p {
+                font-size: 24px;
+                font-weight: 200;
+                line-height: 1.1;
+                letter-spacing: -0.05em;
+                z-index: 1000;
+            }
+            .list {
+                width: 100%;
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                padding-top: 60px;
+          
+                &>div {
+                  display: flex;
+                  flex-direction: column;
+                  row-gap: 10px;
+          
+                  p {
+                    text-transform: uppercase;
+                    font-size: 14px;
+                    text-align: left;
+                  }
+
+                  span {
+                    font-size: 24px;
+                    font-weight: 200;
+                    letter-spacing: -1px;
+                    line-height: 1.1;
+                  }
+          
+                }
+              }
+        }
+      h2 {
+        font-size: 80px;
+        padding-top: 5px;
+      }
+  
+      p {
+        font-size: 1.1rem;
+        max-width: 600px;
+      }
+  
+      ul {
+        padding-left: 1rem;
+        margin-top: 0.5rem;
+        li {
+          margin-bottom: 0.3rem;
+          list-style-type: disc;
+        }
+      }
+    }
+  
+    .zone-image-box {
+      width: 50%;
+      position: sticky;
+      top: 20vh;
+      z-index: 1000;
+      transition: all .3s;
+  
+      img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+      }
+    }
+
+    .zone-background {
+        position: absolute;
+        z-index: 1;
+        top: 20vh;
+        transform: translateY(-20vh);
+        background-color: transparent;
+        height: 100%;
+        width: 50%;
+        right: 0;
+        background-image: url('../../assets/prizemlje_nacrt_optimized.svg');
+        background-repeat: repeat;
+    }
+  }
+  

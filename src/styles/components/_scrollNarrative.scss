@@ -1,0 +1,20 @@
+.scroll-narrative {
+    height: 100vh;
+    transition: background-color 0.01s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .backgroundImg {
+        position: absolute;
+        z-index: 0;
+        width: 60%;
+        height: 100%;
+        right: 0;
+        top: 50%;
+        transform: translate(-0%, -50%);
+        opacity: .35;
+        object-fit: cover;
+        object-position: top center;
+    }
+}
