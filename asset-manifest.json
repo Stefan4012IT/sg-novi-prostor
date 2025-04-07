@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sg-novi-prostor/static/css/main.dce0ce31.css",
+    "main.css": "/sg-novi-prostor/static/css/main.aea2ff55.css",
     "main.js": "/sg-novi-prostor/static/js/main.6188809e.js",
     "static/media/prizemlje_nacrt.svg": "/sg-novi-prostor/static/media/prizemlje_nacrt.3d9c534be07f5b924ae46182593831f2.svg",
     "static/media/prizemlje_nacrt_optimized.svg": "/sg-novi-prostor/static/media/prizemlje_nacrt_optimized.212d262e56065c442f7c.svg",
@@ -21,11 +21,11 @@
     "static/media/intro_1.jpg": "/sg-novi-prostor/static/media/intro_1.d5bae4b456dd6b425a0f.jpg",
     "static/media/intro_2.jpg": "/sg-novi-prostor/static/media/intro_2.52f7c649dec6c359c5da.jpg",
     "index.html": "/sg-novi-prostor/index.html",
-    "main.dce0ce31.css.map": "/sg-novi-prostor/static/css/main.dce0ce31.css.map",
+    "main.aea2ff55.css.map": "/sg-novi-prostor/static/css/main.aea2ff55.css.map",
     "main.6188809e.js.map": "/sg-novi-prostor/static/js/main.6188809e.js.map"
   },
   "entrypoints": [
-    "static/css/main.dce0ce31.css",
+    "static/css/main.aea2ff55.css",
     "static/js/main.6188809e.js"
   ]
 }
