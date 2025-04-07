@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sg-novi-prostor/static/css/main.aea2ff55.css",
-    "main.js": "/sg-novi-prostor/static/js/main.6188809e.js",
+    "main.css": "/sg-novi-prostor/static/css/main.81f4e334.css",
+    "main.js": "/sg-novi-prostor/static/js/main.10b50872.js",
     "static/media/prizemlje_nacrt.svg": "/sg-novi-prostor/static/media/prizemlje_nacrt.3d9c534be07f5b924ae46182593831f2.svg",
     "static/media/prizemlje_nacrt_optimized.svg": "/sg-novi-prostor/static/media/prizemlje_nacrt_optimized.212d262e56065c442f7c.svg",
     "static/media/dump_img_1.avif": "/sg-novi-prostor/static/media/dump_img_1.f853b71ccdcc5e7cd560.avif",
@@ -20,12 +20,17 @@
     "static/media/intro_4.jpg": "/sg-novi-prostor/static/media/intro_4.c8b21020ae14c1431734.jpg",
     "static/media/intro_1.jpg": "/sg-novi-prostor/static/media/intro_1.d5bae4b456dd6b425a0f.jpg",
     "static/media/intro_2.jpg": "/sg-novi-prostor/static/media/intro_2.52f7c649dec6c359c5da.jpg",
+    "static/media/SG_logo.svg": "/sg-novi-prostor/static/media/SG_logo.b043558f87a42c45fd1cf6d9392f8500.svg",
+    "static/media/num_3.svg": "/sg-novi-prostor/static/media/num_3.affe019fefaf3b517b82346b534624c2.svg",
+    "static/media/num_2.svg": "/sg-novi-prostor/static/media/num_2.36c5fc2ad57bae09ec6260ed00bfffed.svg",
     "index.html": "/sg-novi-prostor/index.html",
-    "main.aea2ff55.css.map": "/sg-novi-prostor/static/css/main.aea2ff55.css.map",
-    "main.6188809e.js.map": "/sg-novi-prostor/static/js/main.6188809e.js.map"
+    "static/media/num_4.svg": "/sg-novi-prostor/static/media/num_4.43c50ee6cc28f6d1f6ce1782243c3484.svg",
+    "static/media/num_1.svg": "/sg-novi-prostor/static/media/num_1.f99a39f13efde428e36e6691056dfa78.svg",
+    "main.81f4e334.css.map": "/sg-novi-prostor/static/css/main.81f4e334.css.map",
+    "main.10b50872.js.map": "/sg-novi-prostor/static/js/main.10b50872.js.map"
   },
   "entrypoints": [
-    "static/css/main.aea2ff55.css",
-    "static/js/main.6188809e.js"
+    "static/css/main.81f4e334.css",
+    "static/js/main.10b50872.js"
   ]
 }
