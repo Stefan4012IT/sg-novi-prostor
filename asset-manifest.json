@@ -1,21 +1,37 @@
 {
   "files": {
-    "main.css": "/sg-novi-prostor/static/css/main.81f4e334.css",
-    "main.js": "/sg-novi-prostor/static/js/main.10b50872.js",
+    "main.css": "/sg-novi-prostor/static/css/main.9bb64019.css",
+    "main.js": "/sg-novi-prostor/static/js/main.bd8a9b1c.js",
+    "static/media/nacrt_II_sprat.svg": "/sg-novi-prostor/static/media/nacrt_II_sprat.c66d8e64bc3f33c4295c.svg",
+    "static/media/nacrt_II_sprat_optimized.svg": "/sg-novi-prostor/static/media/nacrt_II_sprat_optimized.0a6ea5ccd2aec0cdd302e245336a6d05.svg",
     "static/media/prizemlje_nacrt.svg": "/sg-novi-prostor/static/media/prizemlje_nacrt.3d9c534be07f5b924ae46182593831f2.svg",
     "static/media/prizemlje_nacrt_optimized.svg": "/sg-novi-prostor/static/media/prizemlje_nacrt_optimized.212d262e56065c442f7c.svg",
     "static/media/dump_img_1.avif": "/sg-novi-prostor/static/media/dump_img_1.f853b71ccdcc5e7cd560.avif",
     "static/media/dump_img_2.avif": "/sg-novi-prostor/static/media/dump_img_2.1bb0c0ddaa24c38bbf18.avif",
     "static/media/dump_img_3.avif": "/sg-novi-prostor/static/media/dump_img_3.aee596578b1bfaa6a43c.avif",
     "static/media/open-day-hero-bw.jpg": "/sg-novi-prostor/static/media/open-day-hero-bw.f08df9945ce7f7280991.jpg",
+    "static/media/sprat_II_8.jpg": "/sg-novi-prostor/static/media/sprat_II_8.e55187bd346b8b8120b1.jpg",
+    "static/media/sprat_III_2.jpg": "/sg-novi-prostor/static/media/sprat_III_2.c1e9a4f5b0a552b3d6d0.jpg",
+    "static/media/sprat_III_7.jpg": "/sg-novi-prostor/static/media/sprat_III_7.44b30d546ca03f8d3f19.jpg",
+    "static/media/sprat_II_7.jpg": "/sg-novi-prostor/static/media/sprat_II_7.f5702257a893aba3aadb.jpg",
+    "static/media/sprat_III_5.jpg": "/sg-novi-prostor/static/media/sprat_III_5.f103afdd63a4f76c0719.jpg",
+    "static/media/sprat_III_8.jpg": "/sg-novi-prostor/static/media/sprat_III_8.95cec77f887be37edbcc.jpg",
+    "static/media/sprat_III_3.jpg": "/sg-novi-prostor/static/media/sprat_III_3.1f4b12ec7c086cd11e96.jpg",
+    "static/media/sprat_III_6.jpg": "/sg-novi-prostor/static/media/sprat_III_6.8c1475d565a934fd49ec.jpg",
+    "static/media/sprat_II_4.jpg": "/sg-novi-prostor/static/media/sprat_II_4.f833198303470b1bf223.jpg",
+    "static/media/sprat_II_3.jpg": "/sg-novi-prostor/static/media/sprat_II_3.fc98f7de74ebd0e5bb89.jpg",
     "static/media/prizemlje_2.jpg": "/sg-novi-prostor/static/media/prizemlje_2.13b7d0a3ac9d257c3f9c.jpg",
     "static/media/prizemlje_1.jpg": "/sg-novi-prostor/static/media/prizemlje_1.7980f980e5c5aad1d58c.jpg",
+    "static/media/sprat_II_6.jpg": "/sg-novi-prostor/static/media/sprat_II_6.a6bf11dcfb294c8df843.jpg",
+    "static/media/sprat_III_4.jpg": "/sg-novi-prostor/static/media/sprat_III_4.4dbe47d8b382f0beca4c.jpg",
     "static/media/KHTeka-Bold.ttf": "/sg-novi-prostor/static/media/KHTeka-Bold.0a0c0f135b0eec2ee58f.ttf",
+    "static/media/sprat_II_5.jpg": "/sg-novi-prostor/static/media/sprat_II_5.fddff4f588d6ca574cf3.jpg",
     "static/media/KHTeka-Regular.ttf": "/sg-novi-prostor/static/media/KHTeka-Regular.329ba7af98e3654980a9.ttf",
     "static/media/KHTeka-Medium.ttf": "/sg-novi-prostor/static/media/KHTeka-Medium.a3fb9bc29c9ac931da84.ttf",
     "static/media/KHTeka-Light.ttf": "/sg-novi-prostor/static/media/KHTeka-Light.133669dc3b565911724f.ttf",
-    "static/media/prizemlje_3.jpg": "/sg-novi-prostor/static/media/prizemlje_3.e52dd0d1f4253f6f0b34.jpg",
-    "static/media/prizemlje_4.jpg": "/sg-novi-prostor/static/media/prizemlje_4.7f82e2ad8d9078d00428.jpg",
+    "static/media/sprat_II_1.jpg": "/sg-novi-prostor/static/media/sprat_II_1.e52dd0d1f4253f6f0b34.jpg",
+    "static/media/sprat_III_1.jpg": "/sg-novi-prostor/static/media/sprat_III_1.1c1068abefe14739f52a.jpg",
+    "static/media/sprat_II_2.jpg": "/sg-novi-prostor/static/media/sprat_II_2.7f82e2ad8d9078d00428.jpg",
     "static/media/intro_3.jpg": "/sg-novi-prostor/static/media/intro_3.e73fae8df7f14508989f.jpg",
     "static/media/intro_4.jpg": "/sg-novi-prostor/static/media/intro_4.c8b21020ae14c1431734.jpg",
     "static/media/intro_1.jpg": "/sg-novi-prostor/static/media/intro_1.d5bae4b456dd6b425a0f.jpg",
@@ -26,11 +42,11 @@
     "index.html": "/sg-novi-prostor/index.html",
     "static/media/num_4.svg": "/sg-novi-prostor/static/media/num_4.43c50ee6cc28f6d1f6ce1782243c3484.svg",
     "static/media/num_1.svg": "/sg-novi-prostor/static/media/num_1.f99a39f13efde428e36e6691056dfa78.svg",
-    "main.81f4e334.css.map": "/sg-novi-prostor/static/css/main.81f4e334.css.map",
-    "main.10b50872.js.map": "/sg-novi-prostor/static/js/main.10b50872.js.map"
+    "main.9bb64019.css.map": "/sg-novi-prostor/static/css/main.9bb64019.css.map",
+    "main.bd8a9b1c.js.map": "/sg-novi-prostor/static/js/main.bd8a9b1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.81f4e334.css",
-    "static/js/main.10b50872.js"
+    "static/css/main.9bb64019.css",
+    "static/js/main.bd8a9b1c.js"
   ]
 }
