@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sg-novi-prostor/static/css/main.3d54ec90.css",
-    "main.js": "/sg-novi-prostor/static/js/main.d67fa5c4.js",
+    "main.css": "/sg-novi-prostor/static/css/main.123872d4.css",
+    "main.js": "/sg-novi-prostor/static/js/main.4c2303dd.js",
     "static/media/nacrt_II_sprat.svg": "/sg-novi-prostor/static/media/nacrt_II_sprat.af0effc1f8185f7ae11f71b0ded3dd97.svg",
     "static/media/prizemlje_nacrt.svg": "/sg-novi-prostor/static/media/prizemlje_nacrt.3d9c534be07f5b924ae46182593831f2.svg",
     "static/media/beogradjanka.png": "/sg-novi-prostor/static/media/beogradjanka.a2c85000022003557963.png",
@@ -67,11 +67,11 @@
     "index.html": "/sg-novi-prostor/index.html",
     "static/media/num_4_black.svg": "/sg-novi-prostor/static/media/num_4_black.ef3b22d6c40df7a15ca7115a3e181551.svg",
     "static/media/num_1_black.svg": "/sg-novi-prostor/static/media/num_1_black.601151d7e7d7ee1dd29f4490e4920a5b.svg",
-    "main.3d54ec90.css.map": "/sg-novi-prostor/static/css/main.3d54ec90.css.map",
-    "main.d67fa5c4.js.map": "/sg-novi-prostor/static/js/main.d67fa5c4.js.map"
+    "main.123872d4.css.map": "/sg-novi-prostor/static/css/main.123872d4.css.map",
+    "main.4c2303dd.js.map": "/sg-novi-prostor/static/js/main.4c2303dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d54ec90.css",
-    "static/js/main.d67fa5c4.js"
+    "static/css/main.123872d4.css",
+    "static/js/main.4c2303dd.js"
   ]
 }
