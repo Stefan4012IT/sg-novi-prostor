@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sg-novi-prostor/static/css/main.1faaa264.css",
-    "main.js": "/sg-novi-prostor/static/js/main.084f4cc1.js",
+    "main.css": "/sg-novi-prostor/static/css/main.b872f77e.css",
+    "main.js": "/sg-novi-prostor/static/js/main.0cd96e65.js",
     "static/media/nacrt_II_sprat.svg": "/sg-novi-prostor/static/media/nacrt_II_sprat.c66d8e64bc3f33c4295cdb01b59071ea.svg",
     "static/media/prizemlje_nacrt.svg": "/sg-novi-prostor/static/media/prizemlje_nacrt.3d9c534be07f5b924ae46182593831f2.svg",
     "static/media/beogradjanka.png": "/sg-novi-prostor/static/media/beogradjanka.a2c85000022003557963.png",
@@ -57,6 +57,8 @@
     "static/media/intro_4.jpg": "/sg-novi-prostor/static/media/intro_4.c8b21020ae14c1431734.jpg",
     "static/media/intro_1.jpg": "/sg-novi-prostor/static/media/intro_1.d5bae4b456dd6b425a0f.jpg",
     "static/media/intro_img_01.jpg": "/sg-novi-prostor/static/media/intro_img_01.87afafe47a3f3049eb11.jpg",
+    "static/media/intro_8.jpg": "/sg-novi-prostor/static/media/intro_8.0ef590481813add4fc8b.jpg",
+    "static/media/intro_7.jpg": "/sg-novi-prostor/static/media/intro_7.b03fc6304060278f77b4.jpg",
     "static/media/intro_2.jpg": "/sg-novi-prostor/static/media/intro_2.52f7c649dec6c359c5da.jpg",
     "static/media/camb_mpn.png": "/sg-novi-prostor/static/media/camb_mpn.818682fdf6996fec3e95.png",
     "static/media/sg_footer_colored.svg": "/sg-novi-prostor/static/media/sg_footer_colored.49220c7e73c735cc144f69282ffd7ba3.svg",
@@ -67,11 +69,11 @@
     "static/media/num_2_black.svg": "/sg-novi-prostor/static/media/num_2_black.c466874cfb518d66c19b436ec7a807d2.svg",
     "static/media/num_4_black.svg": "/sg-novi-prostor/static/media/num_4_black.ef3b22d6c40df7a15ca7115a3e181551.svg",
     "static/media/num_1_black.svg": "/sg-novi-prostor/static/media/num_1_black.601151d7e7d7ee1dd29f4490e4920a5b.svg",
-    "main.1faaa264.css.map": "/sg-novi-prostor/static/css/main.1faaa264.css.map",
-    "main.084f4cc1.js.map": "/sg-novi-prostor/static/js/main.084f4cc1.js.map"
+    "main.b872f77e.css.map": "/sg-novi-prostor/static/css/main.b872f77e.css.map",
+    "main.0cd96e65.js.map": "/sg-novi-prostor/static/js/main.0cd96e65.js.map"
   },
   "entrypoints": [
-    "static/css/main.1faaa264.css",
-    "static/js/main.084f4cc1.js"
+    "static/css/main.b872f77e.css",
+    "static/js/main.0cd96e65.js"
   ]
 }
