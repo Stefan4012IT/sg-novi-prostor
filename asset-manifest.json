@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sg-novi-prostor/static/css/main.483ed229.css",
-    "main.js": "/sg-novi-prostor/static/js/main.b1ede9dd.js",
+    "main.js": "/sg-novi-prostor/static/js/main.4056715d.js",
     "static/media/nacrt_II_sprat.svg": "/sg-novi-prostor/static/media/nacrt_II_sprat.c66d8e64bc3f33c4295cdb01b59071ea.svg",
     "static/media/prizemlje_nacrt.svg": "/sg-novi-prostor/static/media/prizemlje_nacrt.3d9c534be07f5b924ae46182593831f2.svg",
     "static/media/beogradjanka.png": "/sg-novi-prostor/static/media/beogradjanka.a2c85000022003557963.png",
@@ -56,7 +56,7 @@
     "static/media/intro_6.jpg": "/sg-novi-prostor/static/media/intro_6.48f6c700cd464b1eeaf9.jpg",
     "static/media/intro_4.jpg": "/sg-novi-prostor/static/media/intro_4.c8b21020ae14c1431734.jpg",
     "static/media/intro_1.jpg": "/sg-novi-prostor/static/media/intro_1.d5bae4b456dd6b425a0f.jpg",
-    "static/media/intro_5.jpg": "/sg-novi-prostor/static/media/intro_5.9d3bcf35ed43915ccdf3.jpg",
+    "static/media/intro_img_01.jpg": "/sg-novi-prostor/static/media/intro_img_01.87afafe47a3f3049eb11.jpg",
     "static/media/intro_2.jpg": "/sg-novi-prostor/static/media/intro_2.52f7c649dec6c359c5da.jpg",
     "static/media/camb_mpn.png": "/sg-novi-prostor/static/media/camb_mpn.818682fdf6996fec3e95.png",
     "static/media/sg_footer_colored.svg": "/sg-novi-prostor/static/media/sg_footer_colored.49220c7e73c735cc144f69282ffd7ba3.svg",
@@ -68,10 +68,10 @@
     "static/media/num_4_black.svg": "/sg-novi-prostor/static/media/num_4_black.ef3b22d6c40df7a15ca7115a3e181551.svg",
     "static/media/num_1_black.svg": "/sg-novi-prostor/static/media/num_1_black.601151d7e7d7ee1dd29f4490e4920a5b.svg",
     "main.483ed229.css.map": "/sg-novi-prostor/static/css/main.483ed229.css.map",
-    "main.b1ede9dd.js.map": "/sg-novi-prostor/static/js/main.b1ede9dd.js.map"
+    "main.4056715d.js.map": "/sg-novi-prostor/static/js/main.4056715d.js.map"
   },
   "entrypoints": [
     "static/css/main.483ed229.css",
-    "static/js/main.b1ede9dd.js"
+    "static/js/main.4056715d.js"
   ]
 }
