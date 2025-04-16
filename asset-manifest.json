@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sg-novi-prostor/static/css/main.d548f8f1.css",
+    "main.css": "/sg-novi-prostor/static/css/main.e5190770.css",
     "main.js": "/sg-novi-prostor/static/js/main.787ef712.js",
     "static/media/nacrt_II_sprat.svg": "/sg-novi-prostor/static/media/nacrt_II_sprat.c66d8e64bc3f33c4295cdb01b59071ea.svg",
     "static/media/prizemlje_nacrt.svg": "/sg-novi-prostor/static/media/prizemlje_nacrt.3d9c534be07f5b924ae46182593831f2.svg",
@@ -67,11 +67,11 @@
     "static/media/num_2_black.svg": "/sg-novi-prostor/static/media/num_2_black.c466874cfb518d66c19b436ec7a807d2.svg",
     "static/media/num_4_black.svg": "/sg-novi-prostor/static/media/num_4_black.ef3b22d6c40df7a15ca7115a3e181551.svg",
     "static/media/num_1_black.svg": "/sg-novi-prostor/static/media/num_1_black.601151d7e7d7ee1dd29f4490e4920a5b.svg",
-    "main.d548f8f1.css.map": "/sg-novi-prostor/static/css/main.d548f8f1.css.map",
+    "main.e5190770.css.map": "/sg-novi-prostor/static/css/main.e5190770.css.map",
     "main.787ef712.js.map": "/sg-novi-prostor/static/js/main.787ef712.js.map"
   },
   "entrypoints": [
-    "static/css/main.d548f8f1.css",
+    "static/css/main.e5190770.css",
     "static/js/main.787ef712.js"
   ]
 }
